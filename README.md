@@ -1,7 +1,7 @@
 Hi! I'm Blake, a Senior Software Engineer.
-I currently work for 23andMe, supporting a few teams working on relatives computation, and phenotype feature authoring and computation. 
+I've been an engineer for 23andMe and Overstock, working on projects ranging from machine learning (llms, LTR, classification, feature engineering, NLP, and logistic regression) to high performance cloud computing.
 
-I enjoy NLP and Classification problems, and working in cloud infrastructures. I also enjoy cryptography, number theory and mathematical modeling.
+In Machine Learning, I enjoy NLP and Classification problems, and generally I like working in cloud infrastructures and connecting disparate data sources together. I also enjoy cryptography, number theory and mathematical modeling of biological and psychological phenomena.
 
 You can reach me at: 
   - instagram: [@blakeism](https://www.instagram.com/blakeism)
